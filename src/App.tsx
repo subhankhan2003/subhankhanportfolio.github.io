@@ -108,7 +108,7 @@ function App() {
               <SkillCard
                 icon={<Code2 className="w-6 h-6" />}
                 title="Frontend Development"
-                skills={['HTML', 'CSS', 'JavaScript', 'React', 'Next.js']}
+                skills={['HTML', 'CSS', 'JavaScript', 'React', 'Next.js','Android App Developer','Flutter']}
               />
             </motion.div>
             <motion.div variants={itemVariants}>
