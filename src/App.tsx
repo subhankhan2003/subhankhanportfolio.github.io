@@ -165,7 +165,7 @@ function App() {
               </div>
             </div>
             <p className="text-text-secondary">
-              Specializing in Web Development and Security Analyst
+              Specializing in Web Development,Security Analyst and Cross Platform App Development 
             </p>
           </motion.div>
         </Section>
